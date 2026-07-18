@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4j0004_000.yaml, hash: 'sha256:7de81e290f34aaf250d17f157b43029bbddb2f1a5257571eb2d07ae0ed0b0c74'}
   - {seq: 1, filename: KR4j0004_001.yaml, hash: 'sha256:ac73a244be43b254141ee626e421410686cdbc93038b78007d99c6efd9e36d73'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4j0004_000.markers.yaml, hash: 'sha256:f4b264f6b797e17a36bf1ea6279cd343e576a5d551a50da3c9ca52a0a5121b02'}
-  - {seq: 1, role: markers, filename: assets/KR4j0004_001.markers.yaml, hash: 'sha256:4bd7d190efc7214abf04f9afadb5ca038ad905bc1159caebf467416e1660de4d'}
+  - {seq: 0, role: markers, filename: assets/KR4j0004_000.markers.yaml, hash: 'sha256:0dcd4d69ba76b6625e155cd2daa7e3fc1607bf433913f8b29db9bc17d433c433'}
+  - {seq: 1, role: markers, filename: assets/KR4j0004_001.markers.yaml, hash: 'sha256:b2d2bf57d61f2aa09c1973c8b151a3d8fbba3f75747b1823c0e1508ab4513725'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 安陸集
   type: section
   level: 1
-hash: sha256:77fdf957025067fd41b987ad802d4097ba350ac649bd105be00ea35d9198652b
+hash: sha256:17a9404ba31980f32e8734dce771be232a63d3ee19115927c732ed83fc14c86a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
